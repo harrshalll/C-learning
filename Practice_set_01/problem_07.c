@@ -12,7 +12,7 @@ int main(){
     printf("value of p is %d\n" ,p);
     int m = 5*(2/2)*3;
     printf("value of m is %d\n", m);
-    int z = 9*2/3+5;
-    printf("value of z is %d\n", z);
+    int num = 9*2/3+5;
+    printf("value of z is %d\n", num);
     return 0;
 }
